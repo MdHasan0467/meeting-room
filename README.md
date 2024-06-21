@@ -1,4 +1,4 @@
-# ROOMEET : Meeting Room Booking System for Co-working Spaces
+# Meeting Room Booking System for Co-working Spaces
 
 ## Project Overview
 
